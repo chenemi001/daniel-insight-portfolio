@@ -54,8 +54,8 @@ export default function Hero() {
 </Link>
 
              <a
-  href="/Daniel-Alhassan-CV.pdf"
-  download="Daniel-Alhassan-CV.pdf"
+  href="/Daniel-Alhassan-cv.pdf"
+  download="Daniel-Alhassan-cv.pdf"
   className="inline-flex items-center justify-center rounded-full border border-white/15 px-7 py-3 text-[#EAECF0] transition duration-300 hover:border-[#FE7F2D]"
 >
   Download CV
