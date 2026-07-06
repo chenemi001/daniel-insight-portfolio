@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "Business Intelligence",
     "Data Visualization",
     "Analytics",
-    "Portfolio",
+    "portfolio"
   ],
   authors: [{ name: "Daniel Alhassan" }],
   creator: "Daniel Alhassan",

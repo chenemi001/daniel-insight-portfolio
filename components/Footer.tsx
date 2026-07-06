@@ -114,7 +114,7 @@ export default function Footer() {
           </p>
 
           <a
-            href="#"
+            href = "#"
             className="flex h-12 w-12 items-center justify-center rounded-full border border-white/10 bg-[#101214] transition hover:border-[#FE7F2D] hover:bg-[#FE7F2D] hover:text-black"
           >
             <ArrowUp size={20} />
